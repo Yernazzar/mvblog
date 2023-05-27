@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #F5C518;
+}
+
+.navbar {
+  background-color: #F5C518;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.row {
+  margin-top: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+a {
+  color: #F5C518;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
